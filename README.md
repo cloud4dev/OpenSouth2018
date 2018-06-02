@@ -1,6 +1,6 @@
 # OpenSouth2018 Demo
 
-Demo OpenWeatherApp de la charla de introducción a Vaadin 8
+Demo OpenWeatherApp Vaadin 8
 
 ## Building the demo
 
