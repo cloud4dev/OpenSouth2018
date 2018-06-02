@@ -25,7 +25,7 @@ import es.opensouthcode.weather.controller.WeatherService;
 import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
-@SpringUI(path = "eltiempo")
+@SpringUI(path = "")
 public class MainView extends UI {
 	
 	/**
